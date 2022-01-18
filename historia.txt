@@ -1,0 +1,5 @@
+Este es un documento.
+
+La edad es 32.
+
+Su vida loca.
